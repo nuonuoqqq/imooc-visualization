@@ -1,5 +1,5 @@
 # Vue 3 + Vite
+npm run build 构建运行环境
+npm run dev 运行
 
-https://www.bilibili.com/video/BV1yu411E7cm/?vd_source=391a8dc379e0da60c77490e3221f097a
 
-源码
